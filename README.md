@@ -1,8 +1,7 @@
 ## Oie, eu sou a Isabelly Nathália
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
-- 😁 Estou aprendendo Python, PHP e C
-- 😉 Já estudei Java, JavaScript, React e Html
+- 😉 Já fui monitor de Redes de Computadores
 - 😄 Pronouns: ela/dela
 
 
