@@ -2,7 +2,8 @@
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 - 😉 Já fui monitor de Redes de Computadores
-- 👯 I’m looking to collaborate on
+- 📫 How to reach me: isaa.nathalia11@gmail.com
+
 - 😄 Pronouns: ela/dela
 
 
@@ -48,4 +49,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
