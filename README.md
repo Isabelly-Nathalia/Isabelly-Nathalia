@@ -6,7 +6,24 @@
 - 📫 How to reach me: isaa.nathalia11@gmail.com
 - 😄 Pronouns: ela/dela
 
-###
+  
+<div align="center">
+  <h2>Oie, eu sou a Isabelly Nathália</h2>
+  <table align="center">
+    <tr>
+      <td style="text-align: left;">🌱 Estou cursando Análise e Desenvolvimento de Sistemas</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">😉 Já fui monitor de Redes de Computadores</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">📫 How to reach me: <a href="mailto:isaa.nathalia11@gmail.com">isaa.nathalia11@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">😄 Pronouns: ela/dela</td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">I code with: </h2>
 
@@ -47,7 +64,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/><br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
