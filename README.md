@@ -2,6 +2,7 @@
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 - 😉 Já fui monitor de Redes de Computadores
+- 👯 I’m looking to collaborate on
 - 😄 Pronouns: ela/dela
 
 
@@ -44,8 +45,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Isabelly-Nathalia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
