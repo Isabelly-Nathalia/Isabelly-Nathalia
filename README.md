@@ -48,7 +48,8 @@
 
 <div align="center">
   <h2>📊 Status do GitHub: </h2>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/><br/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Isabelly-Nathalia&theme=nightowl&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a><br>
+<!--   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
