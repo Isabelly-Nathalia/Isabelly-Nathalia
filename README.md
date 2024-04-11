@@ -1,3 +1,6 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DB85E6&center=true&random=false&width=550&lines=Seja+bem-vindo+%C3%A0+minha+p%C3%A1gina+do+GitHub!" alt="Typing SVG" /></a>
+</div>
 
 ## Oie, eu sou a Isabelly Nathália
 
@@ -5,7 +8,7 @@
 - 😉 Já fui monitor de Redes de Computadores
 - 📫 How to reach me: isaa.nathalia11@gmail.com
 - 😄 Pronouns: ela/dela
-<h2 align="center">I code with: </h2>
+<h2 align="center">Eu programo com: </h2>
 
 ###
 
