@@ -46,8 +46,9 @@
 
 
 <div align="center">
-  <h2>📊 Estatísticas do GitHub: </h2>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Isabelly-Nathalia&theme=nightowl&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<h2>📊 Estatísticas do GitHub: </h2>
+   
+![](https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
