@@ -5,7 +5,7 @@
 ## Oie, eu sou a Isabelly Nathália
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
-- 😉 Já fui monitor de Redes de Computadores
+- 😉 Já fui monitora de Redes de Computadores
 - 📫 Entre em contato comigo: isaa.nathalia11@gmail.com
 
 <h2 align="center">Eu programo com: </h2>
