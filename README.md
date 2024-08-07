@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   </div>
   
 ###
@@ -36,9 +38,6 @@
 ###
 
 <div align="center">
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -49,7 +48,8 @@
 <div align="center">
 <h2>📊 Estatísticas do GitHub: </h2>
    
-![](https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Isabelly-Nathalia&theme=nightowl&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly-Nathalia&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+
 
 </div>
