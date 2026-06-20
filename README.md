@@ -5,9 +5,8 @@
 ## Oie, eu sou a Isabelly Nathália
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estou estagiando em uma Software House, onde dou suporte ao cliente, ajudando a resolver problemas técnicos
 - 😉 Já fui monitora de Redes de Computadores
-- 📫 Entre em contato comigo: isaa.nathalia11@gmail.com
+- 📫 Entre em contato comigo: isabelly.nathalia.if@gmail.com
 
 <h2 align="center">Eu programo com: </h2>
 
